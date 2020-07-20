@@ -1,0 +1,2 @@
+public class gototest {
+}
