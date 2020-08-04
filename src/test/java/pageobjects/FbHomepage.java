@@ -1,6 +1,7 @@
 package pageobjects;
 
 import org.openqa.selenium.WebDriver;
+import pageobjects.pagefactory.LoginForm;
 
 public class FbHomepage {
     private LoginForm loginForm;
